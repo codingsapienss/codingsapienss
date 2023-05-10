@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/im_prsant" target="blank"><img src="https://img.shields.io/twitter/follow/im_prsant?logo=twitter&style=for-the-badge" alt="im_prsant" /></a> </p>
 
-- 🌱 I’m currently learning **react-redux , DSA**
-
 -  👨‍💻 My Portfolio Website : [https://imprsant.netlify.app/](https://imprsant.netlify.app/)
+
+- 🌱 I’m currently learning **react-redux , DSA**
 
 - 💬 Ask me about **html, css, javascript, react, react-redux, bootstrap, material UI**
 
