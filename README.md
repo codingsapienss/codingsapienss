@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react-redux , DSA**
 
--  👨‍💻 All of my projects are available at [https://imprsant.netlify.app/](https://imprsant.netlify.app/)
+-  👨‍💻 My Portfolio Website : [https://imprsant.netlify.app/](https://imprsant.netlify.app/)
 
 - 💬 Ask me about **html, css, javascript, react, react-redux, bootstrap, material UI**
 
