@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **html, css, javascript, react, react-redux, bootstrap, material UI**
 
-- 📫 How to reach me **contactprsant@gmail.com**
+- 📫 Email : **contactprsant@gmail.com**
 
 - ⚡ Fun fact **I love writing and music.**
 
