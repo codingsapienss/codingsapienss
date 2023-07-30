@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js and DSA**
 
-- 👨‍💻 All of my projects are available at [https://codingsapiens.netlify.app/](https://codingsapiens.netlify.app/)
+- 👨‍💻 Portfolio Website :  [https://codingsapiens.netlify.app/](https://codingsapiens.netlify.app/)
 
 - 💬 Ask me about **html, css, javascript, react, react-redux, bootstrap, material UI**
 
