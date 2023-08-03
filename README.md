@@ -22,7 +22,7 @@
 <a href="https://twitter.com/codingsapiens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingsapiens" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/codingsapiens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingsapiens" height="30" width="40" /></a>
 <a href="https://instagram.com/codingsapiens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingsapiens" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codingsapiens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingsapiens" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCdDHAb9xoevM6JutpzBvBdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingsapiens" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codingsapiens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codingsapiens" height="30" width="40" /></a>
 </p>
 
